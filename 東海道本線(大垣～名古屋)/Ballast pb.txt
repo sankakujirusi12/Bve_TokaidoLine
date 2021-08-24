@@ -1,0 +1,425 @@
+BveTs Map 2.02
+
+1070;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+1075;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+1080;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1085;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1090;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1095;
+     Structure['Ballast pb'].PutBetween('5','7');
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1100;
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1105;
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1110;
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1115;
+     Structure['Ballast pb'].PutBetween('0','5');
+     Structure['Ballast pb'].PutBetween('3','1');
+1120;
+     Structure['Ballast pb'].PutBetween('3','1');
+1125;
+     Structure['Ballast pb'].PutBetween('3','1');
+1130;
+     Structure['Ballast pb'].PutBetween('3','1');
+1135;
+     Structure['Ballast pb'].PutBetween('3','1');
+1140;
+     Structure['Ballast pb'].PutBetween('3','1');
+1145;
+     Structure['Ballast pb'].PutBetween('3','1');
+1150;
+     Structure['Ballast pb'].PutBetween('3','1');
+1155;
+     Structure['Ballast pb'].PutBetween('3','1');
+1160;
+     Structure['Ballast pb'].PutBetween('3','0');
+1165;
+     Structure['Ballast pb'].PutBetween('3','0');
+1170;
+     Structure['Ballast pb'].PutBetween('3','0');
+1175;
+     Structure['Ballast pb'].PutBetween('3','0');
+1180;
+     Structure['Ballast pb'].PutBetween('3','0');
+1185;
+     Structure['Ballast pb'].PutBetween('3','0');
+1190;
+     Structure['Ballast pb'].PutBetween('3','0');
+1195;
+     Structure['Ballast pb'].PutBetween('3','0');
+1200;
+     Structure['Ballast pb'].PutBetween('3','0');
+1205;
+     Structure['Ballast pb'].PutBetween('3','0');
+1210;
+     Structure['Ballast pb'].PutBetween('3','0');
+1215;
+     Structure['Ballast pb'].PutBetween('3','0');
+1220;
+     Structure['Ballast pb'].PutBetween('3','0');
+1225;
+     Structure['Ballast pb'].PutBetween('3','0');
+1230;
+     Structure['Ballast pb'].PutBetween('3','0');
+1235;
+     Structure['Ballast pb'].PutBetween('3','0');
+1240;
+     Structure['Ballast pb'].PutBetween('3','0');
+1245;
+     Structure['Ballast pb'].PutBetween('3','0');
+1250;
+     Structure['Ballast pb'].PutBetween('3','0');
+1255;
+     Structure['Ballast pb'].PutBetween('3','0');
+1260;
+     Structure['Ballast pb'].PutBetween('3','0');
+1265;
+     Structure['Ballast pb'].PutBetween('3','0');
+1270;
+     Structure['Ballast pb'].PutBetween('3','0');
+1275;
+     Structure['Ballast pb'].PutBetween('3','0');
+1280;
+     Structure['Ballast pb'].PutBetween('3','0');
+1285;
+     Structure['Ballast pb'].PutBetween('3','0');
+1290;
+     Structure['Ballast pb'].PutBetween('3','0');
+1295;
+     Structure['Ballast pb'].PutBetween('3','0');
+1300;
+     Structure['Ballast pb'].PutBetween('3','0');
+1305;
+     Structure['Ballast pb'].PutBetween('3','0');
+1695;
+     Structure['Ballast pb'].PutBetween('0','5');
+1700;
+     Structure['Ballast pb'].PutBetween('0','5');
+1705;
+     Structure['Ballast pb'].PutBetween('0','5');
+1710;
+     Structure['Ballast pb'].PutBetween('0','5');
+1715;
+     Structure['Ballast pb'].PutBetween('0','5');
+1720;
+     Structure['Ballast pb'].PutBetween('0','5');
+1725;
+     Structure['Ballast pb'].PutBetween('0','5');
+1730;
+     Structure['Ballast pb'].PutBetween('0','5');
+1735;
+     Structure['Ballast pb'].PutBetween('0','5');
+1740;
+     Structure['Ballast pb'].PutBetween('0','5');
+1745;
+     Structure['Ballast pb'].PutBetween('0','5');
+1750;
+     Structure['Ballast pb'].PutBetween('0','5');
+1755;
+     Structure['Ballast pb'].PutBetween('0','5');
+1760;
+     Structure['Ballast pb'].PutBetween('0','5');
+1765;
+     Structure['Ballast pb'].PutBetween('0','5');
+1770;
+     Structure['Ballast pb'].PutBetween('0','5');
+1775;
+     Structure['Ballast pb'].PutBetween('0','5');
+1780;
+     Structure['Ballast pb'].PutBetween('0','5');
+1785;
+     Structure['Ballast pb'].PutBetween('0','5');
+1790;
+     Structure['Ballast pb'].PutBetween('0','5');
+1795;
+     Structure['Ballast pb'].PutBetween('0','5');
+1800;
+     Structure['Ballast pb'].PutBetween('0','5');
+1805;
+     Structure['Ballast pb'].PutBetween('0','5');
+1810;
+     Structure['Ballast pb'].PutBetween('0','5');
+1815;
+     Structure['Ballast pb'].PutBetween('0','5');
+7400;
+     Structure['Ballastpb'].PutBetween('3','0');
+7425;
+     Structure['Ballastpb'].PutBetween('3','0');
+7450;
+     Structure['Ballastpb'].PutBetween('3','0');
+7475;
+     Structure['Ballastpb'].PutBetween('3','0');
+7500;
+     Structure['Ballastpb'].PutBetween('3','0');
+7525;
+     Structure['Ballastpb'].PutBetween('3','0');
+7550;
+     Structure['Ballastpb'].PutBetween('3','0');
+7575;
+     Structure['Ballastpb'].PutBetween('3','0');
+7600;
+     Structure['Ballastpb'].PutBetween('3','0');
+7625;
+     Structure['Ballastpb'].PutBetween('3','0');
+7650;
+     Structure['Ballastpb'].PutBetween('3','0');
+7675;
+     Structure['Ballastpb'].PutBetween('3','0');
+7700;
+     Structure['Ballastpb'].PutBetween('3','0');
+7725;
+     Structure['Ballastpb'].PutBetween('3','0');
+7750;
+     Structure['Ballastpb'].PutBetween('3','0');
+7775;
+     Structure['Ballastpb'].PutBetween('3','0');
+7800;
+     Structure['Ballast pb'].PutBetween('3','0');
+7805;
+     Structure['Ballast pb'].PutBetween('3','0');
+7810;
+     Structure['Ballast pb'].PutBetween('3','0');
+8025;
+     Structure['Ballastpb'].PutBetween('5','3');
+8050;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8075;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8100;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8125;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8150;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8175;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8200;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8225;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8250;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8275;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8300;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8325;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8350;
+     Structure['Ballastpb'].PutBetween('5','3');
+     Structure['Ballastpb'].PutBetween('3','0');
+8575;
+     Structure['Ballastpb'].PutBetween('3','0');
+8600;
+     Structure['Ballastpb'].PutBetween('3','0');
+8625;
+     Structure['Ballastpb'].PutBetween('3','0');
+8650;
+     Structure['Ballastpb'].PutBetween('3','0');
+8675;
+     Structure['Ballastpb'].PutBetween('3','0');
+8700;
+     Structure['Ballastpb'].PutBetween('3','0');
+8725;
+     Structure['Ballastpb'].PutBetween('3','0');
+8750;
+     Structure['Ballastpb'].PutBetween('3','0');
+8775;
+     Structure['Ballastpb'].PutBetween('3','0');
+8800;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8825;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8850;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8875;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8900;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8925;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8950;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+8975;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9000;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9025;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9050;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9075;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9100;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9125;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9150;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9175;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9200;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9225;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9250;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9275;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9300;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9325;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9350;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9375;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9400;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9425;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9450;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9475;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9500;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9525;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9550;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9575;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9600;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9625;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9650;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9675;
+     Structure['Ballastpb'].PutBetween('3','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9700;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9725;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9750;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9775;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9800;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+9825;
+     Structure['Ballastpb'].PutBetween('4','0');
+     Structure['Ballastpb'].PutBetween('0','6');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

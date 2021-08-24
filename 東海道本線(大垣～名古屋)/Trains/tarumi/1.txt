@@ -1,0 +1,13 @@
+﻿BveTs Train 1.00
+
+[structure]
+key= tarumi295-516
+distance= 18
+span= 18
+z= 9
+
+[Sound3d]
+key= DCRun
+Distance1= -9
+Distance2= 27
+Function= Stationary

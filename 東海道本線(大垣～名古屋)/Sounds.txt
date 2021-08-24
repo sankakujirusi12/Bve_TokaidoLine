@@ -1,0 +1,11 @@
+BveTs Sound List 1.00
+
+大垣発車,Sounds\大垣発車.wav,1
+穂積到着,Sounds\穂積到着.wav,1
+
+
+
+
+
+
+

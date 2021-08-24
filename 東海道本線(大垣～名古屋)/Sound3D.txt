@@ -1,0 +1,4 @@
+BveTs Sound List 1.00:shift_jis
+
+313Run,Sounds\313Run.wav,16
+DCRun,Sounds\DCƒGƒ“ƒWƒ“‰¹.wav,4

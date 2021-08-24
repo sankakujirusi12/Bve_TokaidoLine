@@ -1,0 +1,44 @@
+BveTs Train 1.00
+
+[structure]
+key= kmh313
+distance= 20
+span= 20
+z= 10
+
+[structure]
+key= sh313
+distance= 40
+span= 20
+z= 10
+
+[structure]
+key= mh313
+distance= 60
+span= 20
+z= 10
+
+[structure]
+key= sh313
+distance= 80
+span= 20
+z= 10
+
+[structure]
+key= mh313
+distance= 100
+span= 20
+z= 10
+
+[structure]
+key= kh312
+distance= 120
+span= 20
+z= 10
+
+
+[Sound3d]
+key= 313Run
+Distance1= 0
+Distance2= 130
+Function= Rolling

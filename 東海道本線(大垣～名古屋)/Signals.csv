@@ -1,0 +1,7 @@
+BveTs Signal Aspects List 1.00,,,,,
+type5,Signal5L0,Signal5L1,Signal5L2,Signal5L3,Signal5L4
+,Signal5G0,Signal5G1,Signal5G2,Signal5G3,Signal5G4
+,,,,,
+type3,Signal3L0,,Signal3L2,,Signal3L4
+,Signal5G0,Signal5G1,Signal5G2,Signal5G3,Signal5G4
+type30,Signal30L0,,,Signal30L3,Signal30L4
