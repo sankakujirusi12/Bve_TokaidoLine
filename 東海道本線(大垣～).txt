@@ -1,0 +1,10 @@
+BveTs Scenario 2.00:shift_jis
+
+Route = “ŒŠC“¹–{ü(‘åŠ_`–¼ŒÃ‰®)\Map 2.txt
+Vehicle = 
+Title = 
+Image = 
+RouteTitle = “ŒŠC“¹–{ü@‘åŠ_`–¼ŒÃ‰®
+VehicleTitle = 
+Author = Route:Œ´ì‚©‚Á‚Ï@ˆøŒp§ì¢12¢
+Comment = 
