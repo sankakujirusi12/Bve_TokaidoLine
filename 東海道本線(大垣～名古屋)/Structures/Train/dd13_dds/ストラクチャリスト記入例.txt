@@ -1,0 +1,29 @@
+・ファイルパスは適宜書き換えてください。
+
+■300番台 内訳
+本体　  　  xxx_00
+尾灯＆前灯  xxx_01～xxx_02
+・昼
+13_00,structures\initg_lcset\13_00.x
+13_01,structures\initg_lcset\13_01.x
+13_02,structures\initg_lcset\13_02.x
+shadow_l3,structures\initg_lcset\shadow_l3.x
+・夜
+13_00,structures\initg_lcset\13_00.x
+13_01,structures\initg_lcset\13_01_n.x
+13_02,structures\initg_lcset\13_02.x
+shadow_l3,structures\initg_lcset\shadow_l3_n.x
+
+■初期型 内訳
+本体　  　  xxx_10
+尾灯＆前灯  xxx_11～xxx_02
+・昼
+13_10,structures\initg_lcset\13_10.x
+13_11,structures\initg_lcset\13_11.x
+13_02,structures\initg_lcset\13_02.x
+shadow_l3,structures\initg_lcset\shadow_l3.x
+・夜
+13_10,structures\initg_lcset\13_10.x
+13_11,structures\initg_lcset\13_11_n.x
+13_02,structures\initg_lcset\13_02.x
+shadow_l3,structures\initg_lcset\shadow_l3_n.x

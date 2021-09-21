@@ -1,0 +1,29 @@
+・ファイルパスは適宜書き換えてください。
+
+■0番台 内訳
+本体        xxx_00
+前灯＆尾灯  xxx_01～xxx_02
+・昼
+64_00,structures\initg_lcset\64_00.x
+64_01,structures\initg_lcset\64_01.x
+64_02,structures\initg_lcset\64_02.x
+shadow_l1,structures\initg_lcset\shadow_l1.x
+・夜
+64_00,structures\initg_lcset\64_00.x
+64_01,structures\initg_lcset\64_01_n.x
+64_02,structures\initg_lcset\64_02_n.x
+shadow_l1,structures\initg_lcset\shadow_l1_n.x
+
+■1000番台 内訳
+本体        xxx_00
+前灯＆尾灯  xxx_01～xxx_02
+・昼
+64-1000_00,structures\initg_lcset\64-1000_00.x
+64-1000_01,structures\initg_lcset\64-1000_01.x
+64-1000_02,structures\initg_lcset\64-1000_02.x
+shadow_l1,structures\initg_lcset\shadow_l1.x
+・夜
+64-1000_00,structures\initg_lcset\64-1000_00.x
+64-1000_01,structures\initg_lcset\64-1000_01_n.x
+64-1000_02,structures\initg_lcset\64-1000_02_n.x
+shadow_l1,structures\initg_lcset\shadow_l1_n.x
